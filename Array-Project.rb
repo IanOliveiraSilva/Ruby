@@ -1,3 +1,5 @@
+#Description: Using a collection of type Array, this program receives 3 numbers and at the end displays the result of each one of them raised to the second potency
+
 array = []
 i = 1
 
