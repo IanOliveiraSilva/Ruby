@@ -1,3 +1,6 @@
+#Description: Given the following hash: Numbers = {a: 10, b: 30 2, c: 20, d: 25, e: 15}.
+# This instruction selects the highest value of this hash and at the end prints the key and value of the resulting element.
+
 Numbers = Hash.new
 Numbers[:a] = 10
 Numbers[:b] = 30
