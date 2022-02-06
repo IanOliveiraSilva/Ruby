@@ -1,3 +1,5 @@
+# API that when running prints a phrase from the series "Lucifer" and the author.
+
 require 'rest-client'
 require 'json'
 
