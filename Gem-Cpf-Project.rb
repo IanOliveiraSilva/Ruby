@@ -4,6 +4,8 @@
 #https://github.com/fnando/cpf_cnpj
 
 require 'Cpf_cnpj'
+require 'Soccers_api'
+
 
 print "Digite o CPF: "
 CPF_Check = gets.chomp
